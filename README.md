@@ -1,5 +1,5 @@
 # DigitRecognitionNeuralNetwork
-# The network is initally developed for a graduate school class project
+The network is initally developed for a graduate school class project
 
 This is a multilayer perceptron used for recognizing handwritten digits. 
 Training is fulfilled using back-propagation algorithm. 
