@@ -1,4 +1,4 @@
-function MidTerm2_final
+function DigitRecognition_Main
 %1.	Initialize weight matrix Wx and Wh. (n X m).
 %2.	Go through each input, Calculate Vx, H, Vh and T.
 %   2a.	Vx = [X,X0] * Wx
